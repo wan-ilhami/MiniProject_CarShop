@@ -1,0 +1,9 @@
+992384657890;Aiman Irfan;ASS1234;2;2012;0.12;10000;imported;produa;myvi;
+899475849308;Hazim Husaini;ENT4536;2;2016;0.11;15000;local;proton;satria;
+980375835294;Naim Daniel;RTR1999;2;2018;0.10;30000;imported;;produa;kancil;
+985673847585;Asad Motawh;ZZZ2000;2;2000;0.06;25000;imported;bmw;720i;
+001111011349;Aliff Aiman;JTT9827;1;0.06;yes;40000;bmw;i5;
+000345100754;Abu Hamzah;HTS7890;1;0.08;no;;45000;bmw;i7;
+922137586754;Wan Gemok;TYT7465;1;0.10;yes;30000;bmw;x1;
+123567473737;Haziq Sazali;GTY7465;1;0.02;yes;22000;bmw;x5;
+

@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=Phone
+comment1.params=
+comment1.target=Phone()
+comment10.params=n
+comment10.target=void\ setNumSale(int[])
+comment11.params=
+comment11.target=java.lang.String\ toString()
+comment2.params=b\ m\ p\ n
+comment2.target=Phone(java.lang.String,\ java.lang.String,\ double,\ int[])
+comment3.params=
+comment3.target=java.lang.String\ getBrand()
+comment4.params=
+comment4.target=java.lang.String\ getModel()
+comment5.params=
+comment5.target=double\ getPrice()
+comment6.params=
+comment6.target=int[]\ getNumSale()
+comment7.params=b
+comment7.target=void\ setBrand(java.lang.String)
+comment8.params=m
+comment8.target=void\ setModel(java.lang.String)
+comment9.params=p
+comment9.target=void\ setPrice(double)
+numComments=12

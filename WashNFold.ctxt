@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=WashNFold
+comment1.params=
+comment1.target=WashNFold()
+comment2.params=n\ i\ c\ w\ s
+comment2.target=WashNFold(java.lang.String,\ java.lang.String,\ java.lang.String,\ double,\ boolean)
+comment3.params=a
+comment3.target=WashNFold(WashNFold)
+comment4.params=
+comment4.target=double\ getWeight()
+comment5.params=
+comment5.target=boolean\ getSC()
+comment6.params=w
+comment6.target=void\ setWeight(double)
+comment7.params=s
+comment7.target=void\ setSC(boolean)
+comment8.params=
+comment8.target=double\ calcCharge()
+comment9.params=
+comment9.target=java.lang.String\ toString()
+numComments=10

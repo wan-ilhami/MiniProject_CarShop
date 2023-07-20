@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=BuyerAPPS
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=b
+comment2.target=void\ importlocal(Buyer[])
+comment3.params=b
+comment3.target=void\ search(Buyer[])
+comment4.params=b
+comment4.target=void\ menu(Buyer[])
+comment5.params=b
+comment5.target=void\ allCars(Buyer[])
+comment6.params=b
+comment6.target=void\ recordAdd(Buyer[])
+comment7.params=b
+comment7.target=void\ write(Buyer[])
+comment8.params=b
+comment8.target=void\ read(Buyer[])
+numComments=9

@@ -1,0 +1,21 @@
+			JAN	FEB	MAC	APRIL	MAY	JUNE	JULY	AUG	SEPT	OCT	NOV	DEC	BRAND TOTAL SALES	COLLECTION(RM)
+**************************************************************************************************************************************************************
+Samsung 		49	37	49	34	43	32	32	43	33	38	37	26	453			601447.00
+Apple			66	72	79	85	75	74	57	71	73	85	80	89	906			3350262.00
+Huawei			89	85	57	95	60	74	58	67	68	79	47	76	855			1726445.00
+Oppo			79	68	42	50	62	68	78	68	75	65	64	75	794			1153406.00
+Vivo			117	143	101	196	91	92	110	104	95	96	112	99	1356			1972944.00
+Xiomi			95	56	70	71	90	50	84	61	78	66	52	45	818			1049182.00
+MONTHLY TOTAL SALES	495	461	398	531	421	390	419	414	422	429	392	410	5182			9853686.00
+
+HIGHEST SUMMARY
+
+Brand Total Sales : 1356	Brand : Vivo
+Collection (RM) : 3350262.00	Brand : Apple
+Monthly Total Sales : 531	Month : April
+
+LOWEST SUMMARY
+
+Brand Total Sales : 453		Brand : Samsung
+Collection (RM) : 601447.00	Brand : Samsung
+Monthly Total Sales : 390	Month : June

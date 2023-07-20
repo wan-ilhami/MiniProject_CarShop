@@ -1,0 +1,60 @@
+
+Buyer's Name: Aiman Irfan
+Buyer's IC: 992384657890
+Buyer's Number plate: ASS1234
+Year Made: 2012
+Depreciation Rate: 0.12
+Price: RM 10000.0
+New Price: RM 400.0
+Import || Local: imported
+
+
+Buyer's Name: Hazim Husaini
+Buyer's IC: 899475849308
+Buyer's Number plate: ENT4536
+Year Made: 2016
+Depreciation Rate: 0.11
+Price: RM 15000.0
+New Price: RM 8400.0
+Import || Local: local
+
+
+Buyer's Name: Naim Daniel
+Buyer's IC: 980375835294
+Buyer's Number plate: RTR1999
+Year Made: 2018
+Depreciation Rate: 0.1
+Price: RM 30000.0
+New Price: RM 24000.0
+Import || Local: imported
+
+
+Buyer's Name: Asad Motawh
+Buyer's IC: 985673847585
+Buyer's Number plate: ZZZ2000
+Year Made: 2000
+Depreciation Rate: 0.06
+Price: RM 25000.0
+New Price: RM -5000.0
+Import || Local: imported
+
+
+Buyer's Name: aiman
+Buyer's IC: 00308010345
+Buyer's Number plate: wue1234
+Year Made: 2013
+Depreciation Rate: 0.04
+Price: RM 7000.0
+New Price: RM 5040.0
+Import || Local: Local
+
+
+Buyer's Name: alin
+Buyer's IC: 920805065612
+Buyer's Number plate: ccq4327
+Year Made: 2010
+Depreciation Rate: 0.01
+Price: RM 23000.0
+New Price: RM 20700.0
+Import || Local: Local
+

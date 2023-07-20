@@ -1,0 +1,63 @@
+
+Buyer's Name: Aliff Aiman
+Buyer's IC: 001111011349
+Buyer's Number plate: JTT9827
+Import Duty: 0.06
+Warehouse: false
+Price: RM 40000.0
+New Price: RM 44400.0
+
+
+Buyer's Name: Abu Hamzah
+Buyer's IC: 000345100754
+Buyer's Number plate: HTS7890
+Import Duty: 0.08
+Warehouse: false
+Price: RM 45000.0
+New Price: RM 50600.0
+
+
+Buyer's Name: Wan Gemok
+Buyer's IC: 922137586754
+Buyer's Number plate: TYT7465
+Import Duty: 0.1
+Warehouse: false
+Price: RM 30000.0
+New Price: RM 35000.0
+
+
+Buyer's Name: Haziq Sazali
+Buyer's IC: 123567473737
+Buyer's Number plate: GTY7465
+Import Duty: 0.02
+Warehouse: false
+Price: RM 22000.0
+New Price: RM 24440.0
+
+
+Buyer's Name: wann
+Buyer's IC: 000312110373
+Buyer's Number plate: abc12ab
+Import Duty: 0.06
+Warehouse: false
+Price: RM 3100000.0
+New Price: RM 3288000.0
+
+
+Buyer's Name: adib
+Buyer's IC: 000810040097
+Buyer's Number plate: acd1221
+Import Duty: 0.09
+Warehouse: false
+Price: RM 1000000.0
+New Price: RM 1092000.0
+
+
+Buyer's Name: Haziq
+Buyer's IC: 000916100205
+Buyer's Number plate: WWW7172
+Import Duty: 0.05
+Warehouse: false
+Price: RM 1200000.0
+New Price: RM 1262000.0
+
